@@ -15,15 +15,14 @@ public class WebServer {
     }
 
 
-    public void runServer() throws IOException ,DisconnectedException{
+    public void runServer() throws IOException, DisconnectedException {
         ss = new ServerSocket(port);
         Socket conn = ss.accept();
         System.out.println("Server got new connection request from " + conn.getInetAddress());
         ConnectionHandler ch = new ConnectionHandler(conn); // create new handler for the connection
         ch.handleClientRequest(path);                           // handle the client request
-
+        ss.close();
     }
-
 
 
 }
