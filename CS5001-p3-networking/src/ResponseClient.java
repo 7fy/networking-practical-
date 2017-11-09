@@ -53,19 +53,17 @@ public class ResponseClient {
         switch (command[0]) {
 
             case "GET":
-                BufferedReader content;
+/*                BufferedReader content;
                 content = new BufferedReader(new FileReader(file));
                 String c;
                 String bodyContent = new String();
                 while ((c = content.readLine()) != null) {
                     bodyContent += "\r\n" + c;
-                }
-//                FileInputStream bodyContent = new FileInputStream(file);
-//                byte[] b = new byte[bodyContent.available()];
-//                bodyContent.read(b);
-//                bodyContent.close();
-//                String buffer = new String(b, "UTF8");
-////                System.out.println(buffer);
+                }*/
+                FileInputStream bodyContent = new FileInputStream(file);
+                byte[] b = new byte[bodyContent.available()];
+
+                System.out.println(b);
                 returnContent = headerContent + "\r\n" +bodyContent;
                 break;
             case "HEAD":
