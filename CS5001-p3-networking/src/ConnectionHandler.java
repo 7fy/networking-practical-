@@ -1,6 +1,14 @@
-import java.io.*;
+import java.io.BufferedOutputStream;
+import java.io.BufferedReader;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.net.Socket;
+import java.io.IOException;
+import java.io.File;
 
+/**
+ *Propose: arrange the connection to clients, get requests and responds.
+ */
 public class ConnectionHandler extends Thread {
     private Socket conn;       // socket representing TCP/IP connection to Client
     private String path;
@@ -8,6 +16,12 @@ public class ConnectionHandler extends Thread {
     private BufferedReader br;         // use buffered reader to read client data
     private BufferedOutputStream bos;
 
+    /**
+     * Propose: the constructor of the function, build input and output streams.
+     *
+     * @param conn the built socket
+     * @param path the directory of the server
+     */
     public ConnectionHandler(Socket conn, String path) {
         this.conn = conn;
         this.path = path;
@@ -20,6 +34,9 @@ public class ConnectionHandler extends Thread {
         }
     }
 
+    /**
+     *Propose: run the server, listen to the clients.
+     */
     public void run() { // run method is invoked when the Thread's start method (ch.start(); in Server class) is invoked
         System.out.println("new ConnectionHandler thread started .... ");
         try {
@@ -41,6 +58,13 @@ public class ConnectionHandler extends Thread {
 //        }
 //    }
 
+    /**
+     *Propose: print the responds data.
+     *
+     * @param path the directory of the server
+     * @throws DisconnectedException throws the errors if disconnected
+     * @throws IOException throws the errors from input streams and output streams
+     */
     public void printClientData(String path) throws DisconnectedException, IOException {
 
         String line = br.readLine(); // get data from client over socket
@@ -69,7 +93,9 @@ public class ConnectionHandler extends Thread {
 
     }
 
-
+    /**
+     * Propose: clean up after each connection.
+     */
     private void cleanup() {
         System.out.println("ConnectionHandler: ... cleaning up and exiting ... ");
         try {

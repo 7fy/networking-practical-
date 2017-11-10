@@ -2,10 +2,25 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 
+/**
+ *Propose: response the requests received from clients.
+ */
 public class ResponseClient {
+    /**
+     *Propose: the head.
+     */
     public String head;
+    /**
+     *Propose: the body.
+     */
     public byte[] body;
 
+    /**
+     * Propose: the constructor of the function, get input information, run functions.
+     * @param command the requests from clients
+     * @param path the directory of the server
+     * @throws IOException throws the errors from input streams and output streams
+     */
     public ResponseClient(String[] command, String path) throws IOException {
 
         try {
@@ -20,6 +35,14 @@ public class ResponseClient {
         }
     }
 
+    /**
+     * Propose: build the header content of the responds.
+     *
+     * @param command the requests from clients
+     * @param file the file requested
+     * @return the head content based on the requests
+     * @throws IOException throws the errors from input streams and output streams
+     */
     public String returnHeader(String[] command, File file) throws IOException {
         String[] header = {"", "", ""};
         if (!file.exists()) {
@@ -55,6 +78,14 @@ public class ResponseClient {
         return head;
     }
 
+    /**
+     *Propose: build the body content of the responds.
+     *
+     * @param command the requests from clients
+     * @param file the file requested
+     * @return the body content from the file in binary format
+     * @throws IOException throws the errors from input streams and output streams
+     */
     public byte[] returnBody(String[] command, File file) throws IOException {
 
 
@@ -89,6 +120,8 @@ public class ResponseClient {
                 String bodyOptions = "ALLOW" + "\r\n" + "GET: " + "\r\n" + "HEAD: " + "\r\n" + "DELETE: " + "\r\n" + "TRACE: " + "\r\n" + "OPTIONS: " + "\r\n";
                 System.out.println(bodyOptions);
                 body = bodyOptions.getBytes();
+                break;
+            default:
                 break;
         }
 
