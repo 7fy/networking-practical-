@@ -57,14 +57,15 @@ public class ConnectionHandler extends Thread {
         //THIS IS FOR RETURN BODY, IF THE COMMAND DO NOT NEED ME TO RETURN CONTENT, DO NOT RETURN BODY
         String directory = command[1];
         File file = new File(path + directory);
-        while (file.exists() && command[0].equals("GET")) {
+        if (file.exists() && command[0].equals("GET")) {
             bos.write(rc.body);
         }
 
         bos.flush();
         conn.close();
         bos.close();
-
+        String t = new String(rc.body);
+        LogRequest log = new LogRequest(rc.head, t);
 
     }
 

@@ -12,8 +12,7 @@ public class ResponseClient {
             String directory = command[1];
             File file = new File(path + directory);
             head = returnHeader(command, file);
-
-                body = returnBody(command, file);
+            body = returnBody(command, file);
 
 //            System.out.println(head);
         } catch (Exception e) {
@@ -28,7 +27,7 @@ public class ResponseClient {
             header[1] = "text/html";
             header[2] = String.valueOf(128);
             head = command[2] + " " + header[0] + "\r\n" + "Server: Simple Java Http Server" + "\r\n" + "Content-Type: " + header[1] + "\r\n" + "Content-Length: " + header[2] + "\r\n\r\n";
-        } else if (file.exists() && !command[0].equals("GET") && !command[0].equals("HEAD")) {
+        } else if (file.exists() && !command[0].equals("GET") && !command[0].equals("HEAD") && !command[0].equals("DELETE") && !command[0].equals("TRACE") && !command[0].equals("OPTIONS")) {
             header[0] = "501 Not Implemented";
             header[1] = "text/html";
             header[2] = String.valueOf(128);
@@ -75,11 +74,24 @@ public class ResponseClient {
                 bodyContent.close();
                 body = b;
                 break;
-            default:
-//            case "HEAD":
+            case "HEAD":
                 body = null;
                 break;
+            case "DELETE":
+                file.delete();
+                body = null;
+                break;
+            case "TRACE":
+                String bodyTrace = command[0] + " " + command[1] + " " + command[2] + " ";
+                body = bodyTrace.getBytes();
+                break;
+            case "OPTIONS":
+                String bodyOptions = "ALLOW" + "\r\n" + "GET: " + "\r\n" + "HEAD: " + "\r\n" + "DELETE: " + "\r\n" + "TRACE: " + "\r\n" + "OPTIONS: " + "\r\n";
+                System.out.println(bodyOptions);
+                body = bodyOptions.getBytes();
+                break;
         }
+
 //        System.out.println(body);
         return body;
     }

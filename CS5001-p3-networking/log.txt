@@ -1,0 +1,1445 @@
+2017-11-10 01:16:46
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:16:48
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:16:50
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:16:55
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:16:57
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:17:00
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:23:35
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:23:37
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:23:39
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:23:44
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:23:46
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:23:49
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:24:51
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:24:53
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:24:55
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:00
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:02
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:05
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:29
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:31
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:34
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:38
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:41
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:25:43
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:27:38
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:27:41
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:27:43
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:27:48
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:27:50
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:31:42
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:31:44
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:31:46
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:31:51
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1279
+
+
+<html>
+<head>
+<title> Interesting Times </title>
+<style type="text/css">
+<!--
+h1	{text-align:center;
+	font-family:Arial, Helvetica, Sans-Serif;
+	}
+
+p	{text-indent:20px;
+	}
+-->
+</style>
+</head>
+<body bgcolor = "#ffffcc" text = "#000000">
+<p> <h1> Reproduced from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:31:53
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1144
+
+
+<html>
+<head>
+<title> Interesting Times 3 </title>
+</head>
+<body bgcolor = "#acdcef" text = "#000000">
+<p> <h1> Second Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+<p>
+<a href=page2.html> Page 2 </a>
+</p>
+
+</body>
+</html>
+
+2017-11-10 01:31:56
+HTTP/1.1 200 OK
+Server: Simple Java Http Server
+Content-Type: text/html
+Content-Length: 1097
+
+
+<html>
+<head>
+<title> Interesting Times 4 </title>
+</head>
+<body bgcolor = "#acdc00" text = "#000000">
+<p> <h1> Third Reproduction from "Interesting Times", by Terry Pratchett </h1> </p>
+
+<p>
+Many things went on at the Unseen University and, regrettably teaching had to be one of them. 
+The faculty had long ago confronted this fact and had perfected various devices for avoiding it. 
+But this was perfectly all right because to be fair, so had the students.
+</p>
+<p>
+The system had worked quite well and, as happens in such cases, had taken on the status of a 
+tradition. Lectures clearly took place, because they were down there on the timetable in black and white. 
+The fact that no-one attended was an irrelevant detail. It was occasionally maintained that this meant 
+that the lectures did not in fact happen at all, but no-one ever attended them to find out if this was true. 
+Anyway, it was argued (by the Reader in Woolly Thinking, which is like Fuzzy Logic, only less so) that lectures 
+had taken place in essence, so that was all right, too.
+</p>
+
+</body>
+</html>
+

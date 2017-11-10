@@ -1,7 +1,11 @@
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
+/*
 
+
+
+ */
 public class WebServer {
     private ServerSocket ss;
     private String path;
@@ -25,8 +29,8 @@ public class WebServer {
 
     public void runServer() throws IOException, DisconnectedException {
         ss = new ServerSocket(port);
-        int i =0;
-        while(i <=10){
+        int i = 0;
+        while (i <= 10) {
             Socket conn = ss.accept(); // will wait until client requests a connection, then returns connection (socket)
             System.out.println("Server got new connection request from " + conn.getInetAddress());
             ConnectionHandler ch = new ConnectionHandler(conn, path); // create new handler for this connection
