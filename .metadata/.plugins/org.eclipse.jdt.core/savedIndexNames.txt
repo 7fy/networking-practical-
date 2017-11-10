@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/cs/home/fq4/workspace_linux/networking-practical-/.metadata/.plugins/org.eclipse.jdt.core
+417213731.index
